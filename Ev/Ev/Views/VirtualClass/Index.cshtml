@@ -1,0 +1,49 @@
+﻿@model IEnumerable<Ev.Models.VirtualClass>
+
+@{
+    ViewBag.Title = "VirtualClass";
+}
+
+<h2>Virtual Classes</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+@using (Html.BeginForm())
+{
+    <p>
+            Select Training: @Html.DropDownList("SelectedTraining", "All")
+            <input type="submit" value="Filter" class="btn btn-default" />
+    </p>
+}
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.NameVirtualClass)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TrainingID)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.NameVirtualClass)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TrainingID)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.VirtualClassID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.VirtualClassID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.VirtualClassID })
+        </td>
+    </tr>
+}
+
+</table>

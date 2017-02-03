@@ -1,0 +1,196 @@
+C:\Users\Вячеслав\Desktop\Не трогать\Ev\Ev\bin\ApplicationInsights.config
+C:\Users\Вячеслав\Desktop\Не трогать\Ev\Ev\bin\roslyn\csc.exe
+C:\Users\Вячеслав\Desktop\Не трогать\Ev\Ev\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Вячеслав\Desktop\Не трогать\Ev\Ev\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Вячеслав\Desktop\Не трогать\Ev\Ev\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Вячеслав\Desktop\Не трогать\Ev\Ev\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Вячеслав\Desktop\Не трогать\Ev\Ev\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Вячеслав\Desktop\Не трогать\Ev\Ev\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Вячеслав\Desktop\Не трогать\Ev\Ev\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Вячеслав\Desktop\Не трогать\Ev\Ev\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Вячеслав\Desktop\Не трогать\Ev\Ev\bin\roslyn\vbc.exe
+C:\Users\Вячеслав\Desktop\Не трогать\Ev\Ev\bin\roslyn\VBCSCompiler.exe
+C:\Users\Вячеслав\Desktop\Не трогать\Ev\Ev\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Вячеслав\Desktop\Не трогать\Ev\Ev\bin\Ev.dll.config
+C:\Users\Вячеслав\Desktop\Не трогать\Ev\Ev\bin\Ev.dll
+C:\Users\Вячеслав\Desktop\Не трогать\Ev\Ev\bin\Ev.pdb
+C:\Users\Вячеслав\Desktop\Не трогать\Ev\Ev\bin\Antlr3.Runtime.dll
+C:\Users\Вячеслав\Desktop\Не трогать\Ev\Ev\bin\EntityFramework.dll
+C:\Users\Вячеслав\Desktop\Не трогать\Ev\Ev\bin\EntityFramework.SqlServer.dll
+C:\Users\Вячеслав\Desktop\Не трогать\Ev\Ev\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Вячеслав\Desktop\Не трогать\Ev\Ev\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Вячеслав\Desktop\Не трогать\Ev\Ev\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Вячеслав\Desktop\Не трогать\Ev\Ev\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Вячеслав\Desktop\Не трогать\Ev\Ev\bin\Microsoft.AI.Web.dll
+C:\Users\Вячеслав\Desktop\Не трогать\Ev\Ev\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Вячеслав\Desktop\Не трогать\Ev\Ev\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Вячеслав\Desktop\Не трогать\Ev\Ev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Вячеслав\Desktop\Не трогать\Ev\Ev\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Вячеслав\Desktop\Не трогать\Ev\Ev\bin\Newtonsoft.Json.dll
+C:\Users\Вячеслав\Desktop\Не трогать\Ev\Ev\bin\System.Web.Helpers.dll
+C:\Users\Вячеслав\Desktop\Не трогать\Ev\Ev\bin\System.Web.Mvc.dll
+C:\Users\Вячеслав\Desktop\Не трогать\Ev\Ev\bin\System.Web.Optimization.dll
+C:\Users\Вячеслав\Desktop\Не трогать\Ev\Ev\bin\System.Web.Razor.dll
+C:\Users\Вячеслав\Desktop\Не трогать\Ev\Ev\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Вячеслав\Desktop\Не трогать\Ev\Ev\bin\System.Web.WebPages.dll
+C:\Users\Вячеслав\Desktop\Не трогать\Ev\Ev\bin\System.Web.WebPages.Razor.dll
+C:\Users\Вячеслав\Desktop\Не трогать\Ev\Ev\bin\WebGrease.dll
+C:\Users\Вячеслав\Desktop\Не трогать\Ev\Ev\bin\EntityFramework.xml
+C:\Users\Вячеслав\Desktop\Не трогать\Ev\Ev\bin\EntityFramework.SqlServer.xml
+C:\Users\Вячеслав\Desktop\Не трогать\Ev\Ev\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Вячеслав\Desktop\Не трогать\Ev\Ev\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Вячеслав\Desktop\Не трогать\Ev\Ev\bin\Microsoft.AI.Web.xml
+C:\Users\Вячеслав\Desktop\Не трогать\Ev\Ev\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Вячеслав\Desktop\Не трогать\Ev\Ev\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Вячеслав\Desktop\Не трогать\Ev\Ev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Вячеслав\Desktop\Не трогать\Ev\Ev\bin\System.Web.Helpers.xml
+C:\Users\Вячеслав\Desktop\Не трогать\Ev\Ev\bin\System.Web.Mvc.xml
+C:\Users\Вячеслав\Desktop\Не трогать\Ev\Ev\bin\System.Web.Optimization.xml
+C:\Users\Вячеслав\Desktop\Не трогать\Ev\Ev\bin\System.Web.Razor.xml
+C:\Users\Вячеслав\Desktop\Не трогать\Ev\Ev\bin\System.Web.WebPages.xml
+C:\Users\Вячеслав\Desktop\Не трогать\Ev\Ev\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Вячеслав\Desktop\Не трогать\Ev\Ev\bin\System.Web.WebPages.Razor.xml
+C:\Users\Вячеслав\Desktop\Не трогать\Ev\Ev\bin\Antlr3.Runtime.pdb
+C:\Users\Вячеслав\Desktop\Не трогать\Ev\Ev\bin\Newtonsoft.Json.xml
+C:\Users\Вячеслав\Desktop\Не трогать\Ev\Ev\obj\Debug\Ev.csprojResolveAssemblyReference.cache
+C:\Users\Вячеслав\Desktop\Не трогать\Ev\Ev\obj\Debug\Ev.dll
+C:\Users\Вячеслав\Desktop\Не трогать\Ev\Ev\obj\Debug\Ev.pdb
+C:\Users\Вячеслав\Desktop\Ev\Ev\bin\ApplicationInsights.config
+C:\Users\Вячеслав\Desktop\Ev\Ev\bin\roslyn\csc.exe
+C:\Users\Вячеслав\Desktop\Ev\Ev\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Вячеслав\Desktop\Ev\Ev\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Вячеслав\Desktop\Ev\Ev\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Вячеслав\Desktop\Ev\Ev\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Вячеслав\Desktop\Ev\Ev\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Вячеслав\Desktop\Ev\Ev\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Вячеслав\Desktop\Ev\Ev\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Вячеслав\Desktop\Ev\Ev\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Вячеслав\Desktop\Ev\Ev\bin\roslyn\vbc.exe
+C:\Users\Вячеслав\Desktop\Ev\Ev\bin\roslyn\VBCSCompiler.exe
+C:\Users\Вячеслав\Desktop\Ev\Ev\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Вячеслав\Desktop\Ev\Ev\bin\Ev.dll.config
+C:\Users\Вячеслав\Desktop\Ev\Ev\bin\Ev.dll
+C:\Users\Вячеслав\Desktop\Ev\Ev\bin\Ev.pdb
+C:\Users\Вячеслав\Desktop\Ev\Ev\bin\Antlr3.Runtime.dll
+C:\Users\Вячеслав\Desktop\Ev\Ev\bin\EntityFramework.dll
+C:\Users\Вячеслав\Desktop\Ev\Ev\bin\EntityFramework.SqlServer.dll
+C:\Users\Вячеслав\Desktop\Ev\Ev\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Вячеслав\Desktop\Ev\Ev\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Вячеслав\Desktop\Ev\Ev\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Вячеслав\Desktop\Ev\Ev\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Вячеслав\Desktop\Ev\Ev\bin\Microsoft.AI.Web.dll
+C:\Users\Вячеслав\Desktop\Ev\Ev\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Вячеслав\Desktop\Ev\Ev\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Вячеслав\Desktop\Ev\Ev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Вячеслав\Desktop\Ev\Ev\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Вячеслав\Desktop\Ev\Ev\bin\Newtonsoft.Json.dll
+C:\Users\Вячеслав\Desktop\Ev\Ev\bin\System.Web.Helpers.dll
+C:\Users\Вячеслав\Desktop\Ev\Ev\bin\System.Web.Mvc.dll
+C:\Users\Вячеслав\Desktop\Ev\Ev\bin\System.Web.Optimization.dll
+C:\Users\Вячеслав\Desktop\Ev\Ev\bin\System.Web.Razor.dll
+C:\Users\Вячеслав\Desktop\Ev\Ev\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Вячеслав\Desktop\Ev\Ev\bin\System.Web.WebPages.dll
+C:\Users\Вячеслав\Desktop\Ev\Ev\bin\System.Web.WebPages.Razor.dll
+C:\Users\Вячеслав\Desktop\Ev\Ev\bin\WebGrease.dll
+C:\Users\Вячеслав\Desktop\Ev\Ev\bin\EntityFramework.xml
+C:\Users\Вячеслав\Desktop\Ev\Ev\bin\EntityFramework.SqlServer.xml
+C:\Users\Вячеслав\Desktop\Ev\Ev\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Вячеслав\Desktop\Ev\Ev\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Вячеслав\Desktop\Ev\Ev\bin\Microsoft.AI.Web.xml
+C:\Users\Вячеслав\Desktop\Ev\Ev\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Вячеслав\Desktop\Ev\Ev\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Вячеслав\Desktop\Ev\Ev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Вячеслав\Desktop\Ev\Ev\bin\System.Web.Helpers.xml
+C:\Users\Вячеслав\Desktop\Ev\Ev\bin\System.Web.Mvc.xml
+C:\Users\Вячеслав\Desktop\Ev\Ev\bin\System.Web.Optimization.xml
+C:\Users\Вячеслав\Desktop\Ev\Ev\bin\System.Web.Razor.xml
+C:\Users\Вячеслав\Desktop\Ev\Ev\bin\System.Web.WebPages.xml
+C:\Users\Вячеслав\Desktop\Ev\Ev\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Вячеслав\Desktop\Ev\Ev\bin\System.Web.WebPages.Razor.xml
+C:\Users\Вячеслав\Desktop\Ev\Ev\bin\Antlr3.Runtime.pdb
+C:\Users\Вячеслав\Desktop\Ev\Ev\bin\Newtonsoft.Json.xml
+C:\Users\Вячеслав\Desktop\Ev\Ev\obj\Debug\Ev.csprojResolveAssemblyReference.cache
+C:\Users\Вячеслав\Desktop\Ev\Ev\obj\Debug\Ev.dll
+C:\Users\Вячеслав\Desktop\Ev\Ev\obj\Debug\Ev.pdb
+C:\Users\Вячеслав\Desktop\Ev\Ev\obj\Debug\Ev.Migrations.InitialCreate.resources
+C:\Users\Вячеслав\Desktop\Ev\Ev\obj\Debug\Ev.csproj.GenerateResource.Cache
+C:\Users\Вячеслав\Desktop\Ev\Ev\obj\Debug\Ev.Migrations.OurDbContext.resources
+C:\Users\Вячеслав\Desktop\Ev\Ev\obj\Debug\Ev.Migrations.OurDbContext1.resources
+C:\Users\Вячеслав\Desktop\Ev\Ev\obj\Debug\Ev.Migrations.OurDbContext2.resources
+C:\Users\Вячеслав\Desktop\Ev\Ev\obj\Debug\Ev.Migrations.OurDbContext3.resources
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\obj\Debug\Ev.csprojResolveAssemblyReference.cache
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\obj\Debug\Ev.Migrations.InitialCreate.resources
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\obj\Debug\Ev.Migrations.OurDbContext.resources
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\obj\Debug\Ev.Migrations.OurDbContext1.resources
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\obj\Debug\Ev.Migrations.OurDbContext2.resources
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\obj\Debug\Ev.Migrations.OurDbContext3.resources
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\obj\Debug\Ev.csproj.GenerateResource.Cache
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\obj\Debug\Ev.dll
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\obj\Debug\Ev.pdb
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\ApplicationInsights.config
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\roslyn\csc.exe
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\roslyn\vbc.exe
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\roslyn\VBCSCompiler.exe
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\Ev.dll.config
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\Ev.dll
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\Ev.pdb
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\Antlr3.Runtime.dll
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\EntityFramework.dll
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\EntityFramework.SqlServer.dll
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\Microsoft.AI.Web.dll
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\Newtonsoft.Json.dll
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\System.Web.Helpers.dll
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\System.Web.Mvc.dll
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\System.Web.Optimization.dll
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\System.Web.Razor.dll
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\System.Web.WebPages.dll
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\System.Web.WebPages.Razor.dll
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\WebGrease.dll
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\EntityFramework.xml
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\EntityFramework.SqlServer.xml
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\Microsoft.AI.Web.xml
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\System.Web.Helpers.xml
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\System.Web.Mvc.xml
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\System.Web.Optimization.xml
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\System.Web.Razor.xml
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\System.Web.WebPages.xml
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\System.Web.WebPages.Razor.xml
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\Antlr3.Runtime.pdb
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\Newtonsoft.Json.xml
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\obj\Debug\Ev.Migrations.ChangeBd.resources
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\obj\Debug\Ev.Migrations.OnMod.resources
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\obj\Debug\Ev.Migrations.IndexVC.resources
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\obj\Debug\Ev.Migrations.students_inher.resources
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\obj\Debug\Ev.Migrations.Enroll2.resources
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\PagedList.dll
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\PagedList.xml
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\obj\Debug\Ev.Migrations.Anatations.resources
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\obj\Debug\Ev.Migrations.Roless.resources
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Вячеслав\Desktop\опыты\Ev\Ev\bin\Microsoft.AspNet.Identity.EntityFramework.xml
